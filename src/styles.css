@@ -1,0 +1,40 @@
+/* styles.css */
+.verb {
+    color: blue;
+    font-weight: bold;
+}
+
+.noun {
+    color: green;
+    font-weight: bold;
+}
+
+.adjective {
+    color: orange;
+    font-weight: bold;
+}
+
+.adverb {
+    color: purple;
+    font-weight: bold;
+}
+
+.pronoun {
+    color: teal;
+    font-weight: bold;
+}
+
+.preposition {
+    color: brown;
+    font-weight: bold;
+}
+
+.conjunction {
+    color: red;
+    font-weight: bold;
+}
+
+.interjection {
+    color: pink;
+    font-weight: bold;
+}

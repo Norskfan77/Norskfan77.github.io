@@ -1,0 +1,153 @@
+/* Ensure the entire page background matches the main container */
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #121212; /* Set to the same dark background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+/* Main container styling */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+    text-align: center;
+    background-color: #121212; /* Match this to the body's background */
+}
+
+
+/* Legend section styling */
+.legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 800px;
+    margin-bottom: 20px;
+}
+
+/* Textarea styling */
+textarea {
+    width: 80%;
+    max-width: 600px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #1e1e1e;
+    color: white;
+    font-size: 16px;
+}
+
+/* Style for the analyze button */
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    button:hover {
+        background-color: #0056b3;
+    }
+
+/* Output text container */
+.output {
+    background-color: #222;
+    padding: 15px;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 600px;
+    text-align: left;
+    color: white;
+    margin-top: 20px;
+    word-wrap: break-word;
+}
+
+/* Word highlighting */
+.highlight {
+    padding: 3px 6px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+/* Colors for different word types */
+.verb {
+    background-color: #007BFF;
+    color: white;
+}
+
+.irregular-verb {
+    background-color: #FF7F00;
+    color: white;
+}
+
+.adjective {
+    background-color: #28A745;
+    color: white;
+}
+
+.pronoun {
+    background-color: #DC008C;
+    color: white;
+}
+
+.noun {
+    background-color: #FFC107;
+    color: black;
+}
+
+.adverb {
+    background-color: #17A2B8;
+    color: white;
+}
+
+.preposition {
+    background-color: #E83E8C;
+    color: white;
+}
+
+.proper-noun {
+    background-color: #6610F2;
+    color: white;
+}
+
+.auxiliary-verb {
+    background-color: #FFD700;
+    color: black;
+}
+
+.determiner {
+    background-color: #6C757D;
+    color: white;
+}
+
+.subordinating-conjunction {
+    background-color: #DC3545;
+    color: white;
+}
+
+.coordinating-conjunction {
+    background-color: #FF851B;
+    color: white;
+}
+
+.number {
+    background-color: #00FF00;
+    color: black;
+}
+
+.interjection {
+    background-color: #FF0066;
+    color: white;
+}
