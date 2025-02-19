@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\frontendnsp\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\frontendnsp\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FrontendNSP\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\William.Hawkins\\source\\repos\\FrontendNSP\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T14:45:14.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FrontendNSP\\src\\styles.css",
               "RelativeDocumentMoniker": "src\\styles.css",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "src\\styles.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-19T12:10:40.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T12:10:40.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FrontendNSP\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
@@ -47,8 +63,7 @@
               "RelativeToolTip": "src\\App.css",
               "ViewState": "AgIAACEAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-18T16:49:38.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T16:49:38.407Z"
             },
             {
               "$type": "Document",
@@ -56,9 +71,9 @@
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FrontendNSP\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
-              "ToolTip": "C:\\Users\\William.Hawkins\\source\\repos\\FrontendNSP\\src\\App.jsx*",
-              "RelativeToolTip": "src\\App.jsx*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\William.Hawkins\\source\\repos\\FrontendNSP\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-18T16:49:11.732Z",
               "EditorCaption": ""
