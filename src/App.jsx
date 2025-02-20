@@ -2,7 +2,6 @@ import { useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-
 function App() {
     const [text, setText] = useState("");
     const [highlightedText, setHighlightedText] = useState([]);
@@ -44,19 +43,37 @@ function App() {
         INTJ: { color: "#C71585", label: "Interjection" }
     };
 
+    // Function to analyze text via API
     const analyzeText = async () => {
+        if (!text.trim()) {
+            console.error("No text provided!");
+            return;
+        }
+
         try {
-            const response = await axios.post("https://norsk-be-ny.onrender.com", { text });
+            const response = await axios.post("https://norsk-be-ny.onrender.com/analyze", { text }, {
+                headers: {
+                    "Content-Type": "application/json"
+                }
+            });
+
+            if (!response.data || !Array.isArray(response.data)) {
+                console.error("Unexpected response format:", response.data);
+                return;
+            }
+
             setHighlightedText(response.data);
         } catch (error) {
             console.error("Error analyzing text:", error);
         }
     };
 
+    // Toggle individual category visibility
     const toggleCategory = (category) => {
         setEnabledCategories(prev => ({ ...prev, [category]: !prev[category] }));
     };
 
+    // Toggle all categories
     const toggleAllCategories = () => {
         const newState = !allEnabled;
         const updatedCategories = Object.keys(enabledCategories).reduce((acc, key) => {
@@ -130,6 +147,5 @@ function App() {
         </div>
     );
 }
-
 
 export default App;
