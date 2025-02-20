@@ -3,8 +3,10 @@ import plugin from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    plugins: [plugin()],
+    base: "/", // Adjust this based on your repo
     server: {
-        port: 63999,
+        proxy: {
+            "/api": "https://norsk-be-ny-production.up.railway.app"
+        }
     }
-})
+});

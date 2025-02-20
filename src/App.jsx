@@ -46,7 +46,7 @@ function App() {
 
     const analyzeText = async () => {
         try {
-            const response = await axios.post("http://127.0.0.1:5000/analyze", { text });
+            const response = await axios.post("https://norsk-be-ny-production.up.railway.app/analyze", { text });
             setHighlightedText(response.data);
         } catch (error) {
             console.error("Error analyzing text:", error);
