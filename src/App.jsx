@@ -51,7 +51,7 @@ function App() {
         }
 
         try {
-            const response = await axios.post("https://norsk-be-ny.onrender.com/analyze", { text }, {
+            const response = await axios.post("https://norsk-be-ny.onrender.com:5000/analyze", { text }, {
                 headers: {
                     "Content-Type": "application/json"
                 }
