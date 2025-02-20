@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|c:\\users\\william.hawkins\\source\\repos\\fe-gitpages\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E473F68-F978-183B-5916-E418EC04B999}|frontendnsp.esproj|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -81,20 +81,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "vite.config.js",
               "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\vite.config.js",
               "RelativeDocumentMoniker": "vite.config.js",
               "ToolTip": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\vite.config.js",
               "RelativeToolTip": "vite.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-19T14:45:14.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\src\\styles.css",
               "RelativeDocumentMoniker": "src\\styles.css",
@@ -107,26 +107,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
               "ToolTip": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\src\\App.css",
               "RelativeToolTip": "src\\App.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-18T16:49:38.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Users\\William.Hawkins\\source\\repos\\FE-GITpages\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-02-18T16:49:11.732Z",
               "EditorCaption": ""

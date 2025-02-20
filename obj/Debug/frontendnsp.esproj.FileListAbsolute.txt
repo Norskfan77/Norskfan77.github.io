@@ -1,1 +1,2 @@
 C:\Users\William.Hawkins\source\repos\FrontendNSP\obj\Debug\frontendnsp.esproj.CoreCompileInputs.cache
+C:\Users\William.Hawkins\source\repos\FE-GITpages\obj\Debug\frontendnsp.esproj.CoreCompileInputs.cache

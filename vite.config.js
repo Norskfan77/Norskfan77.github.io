@@ -1,12 +1,12 @@
 import { defineConfig } from 'vite';
-import plugin from '@vitejs/plugin-react';
+import react from '@vitejs/plugin-react';
 
-// https://vitejs.dev/config/
 export default defineConfig({
-    base: "/", // Adjust this based on your repo
-    server: {
-        proxy: {
-            "/api": "https://norsk-be-ny-production.up.railway.app"
-        }
+  base: "/norskfan77.github.io/",  // Set this to match your repo name
+  plugins: [react()],
+  server: {
+    proxy: {
+      "/api": "https://norsk-be-ny-production.up.railway.app"
     }
+  }
 });
