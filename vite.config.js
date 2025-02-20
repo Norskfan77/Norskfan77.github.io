@@ -6,7 +6,7 @@ export default defineConfig({
     plugins: [react()],
     server: {
         proxy: {
-            "/api": "https://norsk-be-ny-production.up.railway.app"
+            "/api": "https://norsk-be-ny.onrender.com"
         }
     }
 });
