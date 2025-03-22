@@ -28,7 +28,7 @@ app.get("/about", (req, res) => {
 app.post("/analyze", async (req, res) => {
     console.log(req.body);
     try {
-        const response = await axios.post("http://127.0.0.1:5000/analyze", {
+        const response = await axios.post("https://renderbe-norsk.onrender.com/analyze", {
             text: req.body.text,
         });
         res.json(response.data); // Send the spaCy analysis result back to the client
